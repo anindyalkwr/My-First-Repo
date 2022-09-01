@@ -4,4 +4,4 @@ NPM     : 2106633696
 
 Kelas   : PBP - A
 
-Hobi    : Badminton
+Hobi    : Berenang
